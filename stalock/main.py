@@ -10,7 +10,7 @@ def main():
 
     # Load the JSON file containing the URLs
     try:
-        with open('data.json', 'r') as file:
+        with open('stalock/resources/data.json', 'r') as file:
             data = json.load(file)
     except (FileNotFoundError, json.JSONDecodeError) as e:
         print(f"Error: {e}")
