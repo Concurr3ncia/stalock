@@ -1,0 +1,478 @@
+{
+    "GitHub": {
+        "url": "https://github.com/{}",
+        "urlMain": "https://github.com/"
+    },
+    "LinkedIn": {
+        "url": "https://www.linkedin.com/in/{}",
+        "urlMain": "https://www.linkedin.com/"
+    },
+    "Twitter": {
+        "url": "https://twitter.com/{}",
+        "urlMain": "https://twitter.com/"
+    },
+    "Instagram": {
+        "url": "https://www.instagram.com/{}",
+        "urlMain": "https://www.instagram.com/"
+    },
+    "Facebook": {
+        "url": "https://www.facebook.com/{}",
+        "urlMain": "https://www.facebook.com/"
+    },
+    "Dribbble": {
+        "url": "https://dribbble.com/{}",
+        "urlMain": "https://dribbble.com/"
+    },
+    "Behance": {
+        "url": "https://www.behance.net/{}",
+        "urlMain": "https://www.behance.net/"
+    },
+    "Medium": {
+        "url": "https://medium.com/@{}",
+        "urlMain": "https://medium.com/"
+    },
+    "Pinterest": {
+        "url": "https://www.pinterest.com/{}/",
+        "urlMain": "https://www.pinterest.com/"
+    },
+    "Reddit": {
+        "url": "https://www.reddit.com/user/{}",
+        "urlMain": "https://www.reddit.com/"
+    },
+    "Vimeo": {
+        "url": "https://vimeo.com/{}",
+        "urlMain": "https://vimeo.com/"
+    },
+    "SoundCloud": {
+        "url": "https://soundcloud.com/{}",
+        "urlMain": "https://soundcloud.com/"
+    },
+    "Flickr": {
+        "url": "https://www.flickr.com/people/{}",
+        "urlMain": "https://www.flickr.com/"
+    },
+    "Twitch": {
+        "url": "https://www.twitch.tv/{}",
+        "urlMain": "https://www.twitch.tv/"
+    },
+    "DeviantArt": {
+        "url": "https://www.deviantart.com/{}",
+        "urlMain": "https://www.deviantart.com/"
+    },
+    "AngelList": {
+        "url": "https://angel.co/{}",
+        "urlMain": "https://angel.co/"
+    },
+    "About.me": {
+        "url": "https://about.me/{}",
+        "urlMain": "https://about.me/"
+    },
+    "Untappd": {
+        "url": "https://untappd.com/user/{}",
+        "urlMain": "https://untappd.com/"
+    },
+    "500px": {
+        "url": "https://500px.com/{}",
+        "urlMain": "https://500px.com/"
+    },
+    "GitLab": {
+        "url": "https://gitlab.com/{}",
+        "urlMain": "https://gitlab.com/"
+    },
+    "StackOverflow": {
+        "url": "https://stackoverflow.com/users/{}",
+        "urlMain": "https://stackoverflow.com/"
+    },
+    "Goodreads": {
+        "url": "https://www.goodreads.com/user/show/{}",
+        "urlMain": "https://www.goodreads.com/"
+    },
+    "Pornhub": {
+        "url": "https://www.pornhub.com/users/{}",
+        "urlMain": "https://www.pornhub.com/"
+    },
+    "OnlyFans": {
+        "url": "https://onlyfans.com/{}",
+        "urlMain": "https://onlyfans.com/"
+    },
+    "Xvideos": {
+        "url": "https://www.xvideos.com/profiles/{}",
+        "urlMain": "https://www.xvideos.com/"
+    },
+    "Redtube": {
+        "url": "https://www.redtube.com/users/{}",
+        "urlMain": "https://www.redtube.com/"
+    },
+    "Chaturbate": {
+        "url": "https://chaturbate.com/{}/",
+        "urlMain": "https://chaturbate.com/"
+    },
+    "CamSoda": {
+        "url": "https://www.camsoda.com/{}/",
+        "urlMain": "https://www.camsoda.com/"
+    },
+    "HentaiFoundry": {
+        "url": "https://www.hentai-foundry.com/user/{}",
+        "urlMain": "https://www.hentai-foundry.com/"
+    },
+    "ASMR": {
+        "url": "https://www.asmrealtube.com/{}/",
+        "urlMain": "https://www.asmrealtube.com/"
+    },
+    "Discord": {
+        "url": "https://discord.com/users/{}",
+        "urlMain": "https://discord.com/"
+    },
+    "Tumblr": {
+        "url": "https://{}.tumblr.com/",
+        "urlMain": "https://www.tumblr.com/"
+    },
+    "Snapchat": {
+        "url": "https://www.snapchat.com/add/{}",
+        "urlMain": "https://www.snapchat.com/"
+    },
+    "Clubhouse": {
+        "url": "https://www.joinclubhouse.com/@{}",
+        "urlMain": "https://www.joinclubhouse.com/"
+    },
+    "Quora": {
+        "url": "https://www.quora.com/profile/{}",
+        "urlMain": "https://www.quora.com/"
+    },
+    "Tiktok": {
+        "url": "https://www.tiktok.com/@{}",
+        "urlMain": "https://www.tiktok.com/"
+    },
+    "Fortnite": {
+        "url": "https://www.epicgames.com/id/{}",
+        "urlMain": "https://www.epicgames.com/"
+    },
+    "Steam": {
+        "url": "https://steamcommunity.com/id/{}",
+        "urlMain": "https://steamcommunity.com/"
+    },
+    "Battle.net": {
+        "url": "https://battle.net/profile/{}",
+        "urlMain": "https://battle.net/"
+    },
+    "League of Legends": {
+        "url": "https://na.leagueoflegends.com/en-us/profile/user/{}",
+        "urlMain": "https://www.leagueoflegends.com/"
+    },
+    "Minecraft": {
+        "url": "https://www.minecraft.net/en-us/profile/{}",
+        "urlMain": "https://www.minecraft.net/"
+    },
+    "Roblox": {
+        "url": "https://www.roblox.com/user.aspx?id={}",
+        "urlMain": "https://www.roblox.com/"
+    },
+    "World of Warcraft": {
+        "url": "https://worldofwarcraft.com/en-us/character/{}/",
+        "urlMain": "https://worldofwarcraft.com/"
+    },
+    "FIFA": {
+        "url": "https://www.ea.com/fifa/ultimate-team/web-app/?utm_source=FUT20&ref=player/{}/",
+        "urlMain": "https://www.ea.com/fifa/"
+    },
+    "Cyberpunk 2077": {
+        "url": "https://www.cyberpunk.net/en/profile/{}",
+        "urlMain": "https://www.cyberpunk.net/"
+    },
+    "GameSpot": {
+        "url": "https://www.gamespot.com/profile/{}",
+        "urlMain": "https://www.gamespot.com/"
+    },
+    "Twitch Clips": {
+        "url": "https://www.twitch.tv/{}/clips",
+        "urlMain": "https://www.twitch.tv/"
+    },
+    "Mastodon": {
+        "url": "https://mastodon.social/@{}",
+        "urlMain": "https://mastodon.social/"
+    },
+    "Discord Server": {
+        "url": "https://discord.gg/{}",
+        "urlMain": "https://discord.com/"
+    },
+    "YouTube": {
+        "url": "https://www.youtube.com/c/{}",
+        "urlMain": "https://www.youtube.com/"
+    },
+    "GitHub Gist": {
+        "url": "https://gist.github.com/{}",
+        "urlMain": "https://gist.github.com/"
+    },
+    "Mixer": {
+        "url": "https://mixer.com/{}",
+        "urlMain": "https://mixer.com/"
+    },
+    "Roblox Group": {
+        "url": "https://www.roblox.com/groups/{}",
+        "urlMain": "https://www.roblox.com/"
+    },
+    "Epic Games": {
+        "url": "https://www.epicgames.com/account/personal/{}/",
+        "urlMain": "https://www.epicgames.com/"
+    },
+    "HackerRank": {
+        "url": "https://www.hackerrank.com/{}",
+        "urlMain": "https://www.hackerrank.com/"
+    },
+    "GitHub Pages": {
+        "url": "https://{}.github.io/",
+        "urlMain": "https://pages.github.com/"
+    },
+    "DeviantArt Gallery": {
+        "url": "https://www.deviantart.com/{}/gallery/",
+        "urlMain": "https://www.deviantart.com/"
+    },
+    "ArtStation": {
+        "url": "https://www.artstation.com/{}",
+        "urlMain": "https://www.artstation.com/"
+    },
+    "Newgrounds": {
+        "url": "https://{}.newgrounds.com/",
+        "urlMain": "https://www.newgrounds.com/"
+    },
+    "Fiverr": {
+        "url": "https://www.fiverr.com/{}",
+        "urlMain": "https://www.fiverr.com/"
+    },
+    "Upwork": {
+        "url": "https://www.upwork.com/freelancers/~{}",
+        "urlMain": "https://www.upwork.com/"
+    },
+    "Craigslist": {
+        "url": "https://www.craigslist.org/about/sites#{}",
+        "urlMain": "https://www.craigslist.org/"
+    },
+    "eBay": {
+        "url": "https://www.ebay.com/usr/{}",
+        "urlMain": "https://www.ebay.com/"
+    },
+    "Patreon": {
+        "url": "https://www.patreon.com/{}",
+        "urlMain": "https://www.patreon.com/"
+    },
+    "Twitch Stream": {
+        "url": "https://www.twitch.tv/{}",
+        "urlMain": "https://www.twitch.tv/"
+    },
+    "Fandom": {
+        "url": "https://{}.fandom.com/wiki/{}",
+        "urlMain": "https://www.fandom.com/"
+    },
+    "Game Jolt": {
+        "url": "https://gamejolt.com/@{}",
+        "urlMain": "https://gamejolt.com/"
+    },
+    "Kaggle": {
+        "url": "https://www.kaggle.com/{}",
+        "urlMain": "https://www.kaggle.com/"
+    },
+    "Ko-fi": {
+        "url": "https://ko-fi.com/{}",
+        "urlMain": "https://ko-fi.com/"
+    },
+    "Zynga": {
+        "url": "https://www.zynga.com/profile/{}",
+        "urlMain": "https://www.zynga.com/"
+    },
+    "Tumblr Theme": {
+        "url": "https://{}.tumblr.com/",
+        "urlMain": "https://www.tumblr.com/"
+    },
+    "HackerOne": {
+        "url": "https://hackerone.com/{}",
+        "urlMain": "https://hackerone.com/"
+    },
+    "Trello": {
+        "url": "https://trello.com/{}",
+        "urlMain": "https://trello.com/"
+    },
+    "Quora Spaces": {
+        "url": "https://www.quora.com/q/{}",
+        "urlMain": "https://www.quora.com/"
+    },
+    "Koo": {
+        "url": "https://www.kooapp.com/profile/{}",
+        "urlMain": "https://www.kooapp.com/"
+    },
+    "Miiverse": {
+        "url": "https://miiverse.nintendo.net/users/{}",
+        "urlMain": "https://miiverse.nintendo.net/"
+    },
+    "CodePen": {
+        "url": "https://codepen.io/{}",
+        "urlMain": "https://codepen.io/"
+    },
+    "Blogger": {
+        "url": "https://{}.blogspot.com/",
+        "urlMain": "https://www.blogger.com/"
+    },
+    "Strava": {
+        "url": "https://www.strava.com/athletes/{}",
+        "urlMain": "https://www.strava.com/"
+    },
+    "Last.fm": {
+        "url": "https://www.last.fm/user/{}",
+        "urlMain": "https://www.last.fm/"
+    },
+    "Goodgame": {
+        "url": "https://goodgame.ru/profile/{}",
+        "urlMain": "https://goodgame.ru/"
+    },
+    "GitKraken": {
+        "url": "https://www.gitkraken.com/{}",
+        "urlMain": "https://www.gitkraken.com/"
+    },
+    "Couchsurfing": {
+        "url": "https://www.couchsurfing.com/people/{}",
+        "urlMain": "https://www.couchsurfing.com/"
+    },
+    "SoundClick": {
+        "url": "https://www.soundclick.com/artist/default.cfm?bandID={}",
+        "urlMain": "https://www.soundclick.com/"
+    },
+    "OpenSea": {
+        "url": "https://opensea.io/{}",
+        "urlMain": "https://opensea.io/"
+    },
+    "Bitbucket": {
+        "url": "https://bitbucket.org/{}",
+        "urlMain": "https://bitbucket.org/"
+    },
+    "Steam Community": {
+        "url": "https://steamcommunity.com/profiles/{}",
+        "urlMain": "https://steamcommunity.com/"
+    },
+    "Fandom Wiki": {
+        "url": "https://{}.fandom.com/wiki/{}",
+        "urlMain": "https://www.fandom.com/"
+    },
+    "Meetup": {
+        "url": "https://www.meetup.com/members/{}",
+        "urlMain": "https://www.meetup.com/"
+    },
+    "Letterboxd": {
+        "url": "https://letterboxd.com/{}",
+        "urlMain": "https://letterboxd.com/"
+    },
+    "Ravelry": {
+        "url": "https://www.ravelry.com/people/{}",
+        "urlMain": "https://www.ravelry.com/"
+    },
+    "Amino": {
+        "url": "https://aminoapps.com/c/{}",
+        "urlMain": "https://aminoapps.com/"
+    },
+    "App Store": {
+        "url": "https://apps.apple.com/us/developer/id{}",
+        "urlMain": "https://www.apple.com/app-store/"
+    },
+    "Google Play": {
+        "url": "https://play.google.com/store/apps/developer?id={}",
+        "urlMain": "https://play.google.com/"
+    },
+    "Badoo": {
+        "url": "https://www.badoo.com/profile/{}",
+        "urlMain": "https://www.badoo.com/"
+    },
+    "Stack Exchange": {
+        "url": "https://stackexchange.com/users/{}",
+        "urlMain": "https://stackexchange.com/"
+    },
+    "Wattpad": {
+        "url": "https://www.wattpad.com/user/{}",
+        "urlMain": "https://www.wattpad.com/"
+    },
+    "FetLife": {
+        "url": "https://fetlife.com/users/{}",
+        "urlMain": "https://fetlife.com/"
+    },
+    "Discord Bot": {
+        "url": "https://discord.com/api/oauth2/authorize?client_id={}&scope=bot",
+        "urlMain": "https://discord.com/"
+    },
+    "MyAnimeList": {
+        "url": "https://myanimelist.net/profile/{}",
+        "urlMain": "https://myanimelist.net/"
+    },
+    "Pinterest Board": {
+        "url": "https://www.pinterest.com/{}/",
+        "urlMain": "https://www.pinterest.com/"
+    },
+    "Imgur": {
+        "url": "https://imgur.com/user/{}",
+        "urlMain": "https://imgur.com/"
+    },
+    "Shopify": {
+        "url": "https://{}.myshopify.com/",
+        "urlMain": "https://www.shopify.com/"
+    },
+    "Mixcloud": {
+        "url": "https://www.mixcloud.com/{}",
+        "urlMain": "https://www.mixcloud.com/"
+    },
+    "Caffeine": {
+        "url": "https://www.caffeine.tv/{}",
+        "urlMain": "https://www.caffeine.tv/"
+    },
+    "Product Hunt": {
+        "url": "https://www.producthunt.com/@{}",
+        "urlMain": "https://www.producthunt.com/"
+    },
+    "Foursquare": {
+        "url": "https://foursquare.com/user/{}",
+        "urlMain": "https://foursquare.com/"
+    },
+    "Flipboard": {
+        "url": "https://flipboard.com/@{}",
+        "urlMain": "https://flipboard.com/"
+    },
+    "Minds": {
+        "url": "https://www.minds.com/{}",
+        "urlMain": "https://www.minds.com/"
+    },
+    "HelloTalk": {
+        "url": "https://www.hellotalk.com/user/{}",
+        "urlMain": "https://www.hellotalk.com/"
+    },
+    "DLive": {
+        "url": "https://dlive.tv/@{}",
+        "urlMain": "https://dlive.tv/"
+    },
+    "World Anvil": {
+        "url": "https://www.worldanvil.com/author/{}",
+        "urlMain": "https://www.worldanvil.com/"
+    },
+    "Codewars": {
+        "url": "https://www.codewars.com/users/{}",
+        "urlMain": "https://www.codewars.com/"
+    },
+    "PortfolioBox": {
+        "url": "https://www.portfoliobox.net/{}",
+        "urlMain": "https://www.portfoliobox.net/"
+    },
+    "Etsy": {
+        "url": "https://www.etsy.com/shop/{}",
+        "urlMain": "https://www.etsy.com/"
+    },
+    "Rumble": {
+        "url": "https://rumble.com/user/{}",
+        "urlMain": "https://rumble.com/"
+    },
+    "Spoon": {
+        "url": "https://www.spooncast.net/@{}",
+        "urlMain": "https://www.spooncast.net/"
+    },
+    "Blip.tv": {
+        "url": "https://blip.tv/{}",
+        "urlMain": "https://blip.tv/"
+    },
+    "Soundtrap": {
+        "url": "https://www.soundtrap.com/user/{}",
+        "urlMain": "https://www.soundtrap.com/"
+    }
+}
